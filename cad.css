@@ -1,0 +1,47 @@
+body {
+  background-color: #f7a89f;
+}
+​
+h1 {
+  font-family: georgia, sans-serif;
+  colour: #fff;
+  text-align: center;
+}
+​
+h2 {
+  font-size: 14px;
+  text-align: center;
+  color: #b03a3c;
+}
+​
+p {
+  color: #b03a3c;
+  margin: 2em;
+  text-align: center;
+}
+​
+p2 {
+  text-align: center;
+  color: #fff;
+  margin: 2em;
+  width: 50%;
+}
+​
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+​
+.button {
+  margin: 2em;
+  display: block;
+  padding: 8px 18px;
+  font-size: 14px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #c17781;
+  border: none;
